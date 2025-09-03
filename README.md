@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vipul Bodhani 👋</h1>
+<img width="624" height="169" alt="image" src="https://github.com/user-attachments/assets/079db13e-9b60-457e-92d8-d5b0fc3c1617" /><h1 align="center">Hi, I'm Vipul Bodhani 👋</h1>
 <p align="center">
 MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultant at HCL Technologies · 6+ years of experience in SAP ABAP, backend systems, and data-driven solutions
 </p>
@@ -15,10 +15,15 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 - 🤝 Love collaborating on projects, mentoring, and volunteering with NGOs
 
 ### 🔗 Connect with Me
-<p>
-  <a href="mailto:vbodhani11@gmail.com"><img src="https://img.shields.io/badge/Email-vbodhani11%40gmail.com-informational" /></a>
-  <a href="https://www.linkedin.com/in/vipul-bodhani-58774617a/"><img src="https://img.shields.io/badge/LinkedIn-Vipul_Bodhani-blue" /></a>
+<p align="left">
+  <a href="mailto:vbodhani11@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vipul-bodhani-58774617a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
+
 
 ### 🛠️ Tech Stack
 <p>
@@ -49,10 +54,14 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 - ![Python Certificate](https://www.kaggle.com/learn/certification/vipulbodhani/python)  Python Programming — Kaggle (2025)
 - ![Agile Certificate](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7)  Agile Software Development — Coursera (2022)
 - ![SAP HANA Certificate](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile)  ABAP for SAP HANA 2.0 — SAP (2021)
+
+- ### 🎓 Certifications
+- [![Kaggle Badge](https://img.shields.io/badge/Python_Programming-Kaggle-blue)](https://www.kaggle.com/learn/certification/vipulbodhani/python)
+- [![Coursera Badge](https://img.shields.io/badge/Agile_Software_Development-Coursera-green)](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7)
+- [![SAP Badge](https://img.shields.io/badge/ABAP_for_SAP_HANA_2.0-SAP-orange)](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile)
   
 ### 📊 GitHub Stats
 ![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbodhani11&show_icons=true)
-
 
 ### 🌐 Visitors & Achievements
 ![Visitors](https://komarev.com/ghpvc/?username=vbodhani11)  
