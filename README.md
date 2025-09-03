@@ -50,15 +50,12 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 - 🎟️ **[MeetMatrix – Role-Based Event Management App](https://github.com/Crownedprinz/MeetMatrix)**  
   Event creation & booking with role-based dashboards · Integrated smart calendar and real-time status tracking
 
-### Certifications
-- ![Python Certificate](https://www.kaggle.com/learn/certification/vipulbodhani/python)  Python Programming — Kaggle (2025)
-- ![Agile Certificate](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7)  Agile Software Development — Coursera (2022)
-- ![SAP HANA Certificate](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile)  ABAP for SAP HANA 2.0 — SAP (2021)
-
-- ### 🎓 Certifications
-- [![Kaggle Badge](https://img.shields.io/badge/Python_Programming-Kaggle-blue)](https://www.kaggle.com/learn/certification/vipulbodhani/python)
-- [![Coursera Badge](https://img.shields.io/badge/Agile_Software_Development-Coursera-green)](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7)
-- [![SAP Badge](https://img.shields.io/badge/ABAP_for_SAP_HANA_2.0-SAP-orange)](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile)
+  ### 🎓 Certifications
+| Certificate | Provider | Year | Link |
+|-------------|----------|------|------|
+| 🐍 Python Programming | Kaggle | 2025 | [View](https://www.kaggle.com/learn/certification/vipulbodhani/python) |
+| 🚀 Agile Software Development | Coursera | 2022 | [View](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7) |
+| 🟦 ABAP for SAP HANA 2.0 | SAP | 2021 | [View](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile) |
   
 ### 📊 GitHub Stats
 ![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbodhani11&show_icons=true)
