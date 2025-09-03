@@ -1,24 +1,24 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Vipul Bodhani — GitHub Banner" />
-</p>
-
 <h1 align="center">Hi, I'm Vipul Bodhani 👋</h1>
 <p align="center">
 MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultant at HCL Technologies · 6+ years of experience in SAP ABAP, backend systems, and data-driven solutions
 </p>
 
 <p align="center">
-  <a href="mailto:vbodhani11@gmail.com"><img src="https://img.shields.io/badge/Email-vbodhani11%40gmail.com-informational" /></a>
-  <a href="https://www.linkedin.com/in/vipul-bodhani-58774617a/"><img src="https://img.shields.io/badge/LinkedIn-Vipul_Bodhani-blue" /></a>
-  <a href="https://github.com/vbodhani11"><img src="https://img.shields.io/badge/GitHub-vbodhani11-black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vbodhani11" alt="Profile views" />
 </p>
 
 ### 📌 About Me
-- 🎓 Pursuing **MS in Computer Science** at Purdue University Fort Wayne (Aug 2024 – Present)  
-- 💼 6+ years of professional experience across **HCL Technologies (John Deere)**, **Capgemini (Bank of Maharashtra)**, and **Atos|Syntel (P&G, E*Trade)**  
-- 🛠️ Expertise in **SAP ABAP**, backend systems, and cloud-driven solutions  
-- 🤝 Passionate about mentoring, event management, and community service (NGO volunteering during COVID-19)  
-- 🌱 Currently exploring **LLMs, RAG pipelines, LangChain, AWS Bedrock, and scalable backend systems**
+- 🎓 Pursuing **MS in Computer Science** at **Purdue University Fort Wayne** (Aug 2024 – Present)  
+- 🐍 Mainly coding in **Python** (ML, NLP, Deep Learning, APIs)  
+- 💻 Skilled in **React, Node.js, Express, MongoDB, SAP ABAP, SAP HANA**  
+- 🚀 Exploring **LLMs, RAG Pipelines, LangChain, AWS Bedrock**  
+- 🤝 Love collaborating on projects, mentoring, and volunteering with NGOs
+
+### 🔗 Connect with Me
+<p>
+  <a href="mailto:vbodhani11@gmail.com"><img src="https://img.shields.io/badge/Email-vbodhani11%40gmail.com-informational" /></a>
+  <a href="https://www.linkedin.com/in/vipul-bodhani-58774617a/"><img src="https://img.shields.io/badge/LinkedIn-Vipul_Bodhani-blue" /></a>
+</p>
 
 ### 🛠️ Tech Stack
 <p>
@@ -52,8 +52,7 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
   
 ### 📊 GitHub Stats
 ![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbodhani11&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vbodhani11)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbodhani11&layout=compact&langs_count=6&hide=html,css)
+
 
 ### 🌐 Visitors & Achievements
 ![Visitors](https://komarev.com/ghpvc/?username=vbodhani11)  
