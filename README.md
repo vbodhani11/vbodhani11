@@ -31,8 +31,8 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" />
   <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
-  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" />
-  <img alt="SAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="36" />
+  <img alt="SAP" src="https://img.icons8.com/color/452/sap.png" width="36" />
+  <img alt="AWS" src="https://img.icons8.com/color/452/amazon-web-services.png" width="36" />
 </p>
 
 ### 🌟 Featured Projects
@@ -52,8 +52,8 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
   
 ### 📊 GitHub Stats
 ![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbodhani11&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=vbodhani11)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbodhani11&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vbodhani11)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbodhani11&layout=compact&langs_count=6&hide=html,css)
 
 ### 🌐 Visitors & Achievements
 ![Visitors](https://komarev.com/ghpvc/?username=vbodhani11)  
