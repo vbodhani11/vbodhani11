@@ -57,7 +57,7 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 
   
 
-  ### 🎓 Certifications
+### 🎓 Certifications
 | Certificate | Provider | Year | Link |
 |-------------|----------|------|------|
 | 🐍 Python Programming | Kaggle | 2025 | [View](https://www.kaggle.com/learn/certification/vipulbodhani/python) |
