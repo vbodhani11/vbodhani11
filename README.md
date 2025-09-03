@@ -1,4 +1,4 @@
-<img width="624" height="169" alt="image" src="https://github.com/user-attachments/assets/079db13e-9b60-457e-92d8-d5b0fc3c1617" /><h1 align="center">Hi, I'm Vipul Bodhani 👋</h1>
+<h1 align="center">Hi, I'm Vipul Bodhani 👋</h1>
 <p align="center">
 MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultant at HCL Technologies · 6+ years of experience in SAP ABAP, backend systems, and data-driven solutions
 </p>
@@ -14,6 +14,8 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 - 🚀 Exploring **LLMs, RAG Pipelines, LangChain, AWS Bedrock**  
 - 🤝 Love collaborating on projects, mentoring, and volunteering with NGOs
 
+  
+
 ### 🔗 Connect with Me
 <p align="left">
   <a href="mailto:vbodhani11@gmail.com" target="_blank">
@@ -23,6 +25,7 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ### 🛠️ Tech Stack
@@ -40,6 +43,8 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
   <img alt="AWS" src="https://img.icons8.com/color/452/amazon-web-services.png" width="36" />
 </p>
 
+
+
 ### 🌟 Featured Projects
 - 📚 **[Course Resource Library (CRL 2.0)](https://github.com/bodhvm01/Courselibrary)**  
   Admin & Student dashboards for courses, quizzes, and certifications · Automated email notifications with Nodemailer
@@ -50,15 +55,21 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 - 🎟️ **[MeetMatrix – Role-Based Event Management App](https://github.com/Crownedprinz/MeetMatrix)**  
   Event creation & booking with role-based dashboards · Integrated smart calendar and real-time status tracking
 
+  
+
   ### 🎓 Certifications
 | Certificate | Provider | Year | Link |
 |-------------|----------|------|------|
 | 🐍 Python Programming | Kaggle | 2025 | [View](https://www.kaggle.com/learn/certification/vipulbodhani/python) |
 | 🚀 Agile Software Development | Coursera | 2022 | [View](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7) |
 | 🟦 ABAP for SAP HANA 2.0 | SAP | 2021 | [View](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile) |
+
+
   
 ### 📊 GitHub Stats
 ![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbodhani11&show_icons=true)
+
+
 
 ### 🌐 Visitors & Achievements
 ![Visitors](https://komarev.com/ghpvc/?username=vbodhani11)  
