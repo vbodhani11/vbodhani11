@@ -61,6 +61,8 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 | Certificate | Provider | Year | Link |
 |-------------|----------|------|------|
 | 🐍 Python Programming | Kaggle | 2025 | [View](https://www.kaggle.com/learn/certification/vipulbodhani/python) |
+| 📊 Intro to Machine Learning | Kaggle | 2025 | [View](https://www.kaggle.com/learn/certification/vipulbodhani/intro-to-machine-learning) |
+| 🤖 Intermediate Machine Learning | Kaggle | 2025 | [View](https://www.kaggle.com/learn/certification/vipulbodhani/intermediate-machine-learning) |
 | 🚀 Agile Software Development | Coursera | 2022 | [View](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7) |
 | 🟦 ABAP for SAP HANA 2.0 | SAP | 2021 | [View](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile) |
 
