@@ -69,9 +69,10 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 
   
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/apiusername=vbodhani11&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![Stats](./stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbodhani11&layout=compact&theme=tokyonight)
+## 🔤 Most Used Languages
+![Top Languages](./top-langs.svg)
 
 
 
