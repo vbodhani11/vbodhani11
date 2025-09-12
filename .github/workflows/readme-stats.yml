@@ -1,0 +1,34 @@
+name: Refresh README stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily at 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow the action to commit SVGs
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats and languages cards
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=vbodhani11&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Vipul%20Bodhani%27s%20GitHub%20Stats&theme=tokyonight" \
+            -H "Authorization: token ${{ secrets.PRIVATE_STATS }}" \
+            -o stats.svg
+
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=vbodhani11&layout=compact&langs_count=8&theme=tokyonight" \
+            -H "Authorization: token ${{ secrets.PRIVATE_STATS }}" \
+            -o top-langs.svg
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg
+          git commit -m "chore: refresh stats" || echo "No changes"
+          git push
