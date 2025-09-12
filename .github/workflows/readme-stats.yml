@@ -15,13 +15,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats and languages cards
+      - name: Generate stats and languages cards (private + cache bust)
+        env:
+          GH_USERNAME: vbodhani11
+          GH_TOKEN: ${{ secrets.PRIVATE_STATS }}
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=vbodhani11&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Vipul%20Bodhani%27s%20GitHub%20Stats&theme=tokyonight" \
+          set -e
+          TS=$(date +%s)  # cache-busting timestamp
+
+          # Stats card (includes private + all commits)
+          curl -s "https://github-readme-stats.vercel.app/api\?username=${vbodhani11}\&show_icons=true\&include_all_commits=true\&count_private=true\&rank_icon=percentile\&custom_title=Vipul%20Bodhani%27s%20GitHub%20Stats\&theme=tokyonight\&cache_seconds=120\&v=${TS}" \
             -H "Authorization: token ${{ secrets.PRIVATE_STATS }}" \
             -o stats.svg
 
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=vbodhani11&layout=compact&langs_count=8&theme=tokyonight" \
+          # Top languages card (token helps include private repos where possible)
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/\?username=${vbodhani11}\&layout=compact\&langs_count=8\&theme=tokyonight\&cache_seconds=120\&v=${TS}" \
             -H "Authorization: token ${{ secrets.PRIVATE_STATS }}" \
             -o top-langs.svg
 
