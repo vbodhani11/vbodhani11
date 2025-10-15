@@ -68,12 +68,15 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 
 
   
-### 📊 GitHub Stats
-![Stats](./stats.svg)
+<br/><br/>
 
-## 🔤 Most Used Languages
-![Top Languages](./top-langs.svg)
+[![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vbodhani11)](https://github.com/vbodhani11)
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbodhani11&layout=compact)](https://github.com/vbodhani11)
+
+[linkedin]: https://www.linkedin.com/in/vipul-bodhani/
 
 
 ### 🌐 Visitors & Achievements
