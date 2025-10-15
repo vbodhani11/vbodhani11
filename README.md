@@ -41,6 +41,15 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" />
   <img alt="SAP" src="https://img.icons8.com/color/452/sap.png" width="36" />
   <img alt="AWS" src="https://img.icons8.com/color/452/amazon-web-services.png" width="36" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 </p>
 
 
@@ -65,10 +74,8 @@ MS in Computer Science @ Purdue University Fort Wayne · Ex-Senior SAP Consultan
 | 🤖 Intermediate Machine Learning | Kaggle | 2025 | [View](https://www.kaggle.com/learn/certification/vipulbodhani/intermediate-machine-learning) |
 | 🚀 Agile Software Development | Coursera | 2022 | [View](https://www.coursera.org/account/accomplishments/certificate/PVBZPLEW4UN7) |
 | 🟦 ABAP for SAP HANA 2.0 | SAP | 2021 | [View](https://www.credly.com/badges/417168cb-6630-4a87-ace4-26f2699422ba/linked_in_profile) |
-
-
   
-<br/><br/>
+<br/>
 
 [![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vbodhani11)](https://github.com/vbodhani11)
 
